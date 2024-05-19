@@ -33,3 +33,6 @@ How to Run the Project:
 This project is designed to run from the terminal using Streamlit, a powerful and easy-to-use web application framework for machine learning and data science projects. To start the Credit Card Fraud Detection System, open your terminal and execute the following command:
 streamlit run main.py
 This command launches the Streamlit web application, providing an interactive interface to visualize and interact with the fraud detection system. Users can upload transaction data, view real-time detection results, and access various analytical tools provided by the system.
+
+
+
